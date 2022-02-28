@@ -49,4 +49,4 @@ Using Express and a SQL database to create a REST API that lets users create, re
 
 # Project #10 - Fullstack React App
 Using the backend from project #9, I built the front end using React to allow users to view a list of courses and the detail for a specific course, sign up to create an account or sign in with an existing account, and create, update, or delete courses.
--[Github repo](https://github.com/ccarver80/React-REST-FS-API)
+- [Github repo](https://github.com/ccarver80/React-REST-FS-API)
