@@ -23,3 +23,30 @@ I Created a browser-based, word guessing game: "Phrase Hunter." This app uses Ja
 - [Website](https://ccarver80.github.io/OOP-Game-Show-App/)
 - [Github repo](https://github.com/ccarver80/OOP-Game-Show-App)
 
+# Project #5 - Public API Requests
+Using the public API "https://randomuser.me" this project grabs information from 12 random users and using DOM manipulation I displayed them on the website. Clicking on a profile displays more information on each random user. 
+- [Website](https://ccarver80.github.io/Public-API-Requests/)
+- [Github repo](https://github.com/ccarver80/Public-API-Requests)
+
+# Project #6 - Static Node.js and Express Site
+Using JavaScript and Express with PUG templates I built a static portfolio website and deployed it on Heroku.
+- [Website](https://ccarver-express-static-site.herokuapp.com/)
+- [Github repo](https://github.com/ccarver80/Static-Node.js-and-Express-Site)
+
+# Project #7 - React Gallery App
+Using Flickr API and React this is a simple gallery app where a user can search for photos from Flickr. Deployed using Netlify. 
+- [Website](https://ccarver-react-gallery-app.netlify.app/)
+- [Github repo](https://github.com/ccarver80/React-Gallery-App)
+
+# Project #8 - SQL Library Manager
+Using Express, PUG templates, and Sequelize ORM. I built a library app that adds and removes books from a SQL database. Deployed with Heroku and using Postgres. 
+- [Website](https://ccarver-sql-library.herokuapp.com/books)
+- [Github repo](https://github.com/ccarver80/SQL-Library-Manager)
+
+# Project #9 - REST API
+Using Express and a SQL database to create a REST API that lets users create, read, update, and delete items from a school database.
+- [Github repo](https://github.com/ccarver80/REST-API)
+
+# Project #10 - Fullstack React App
+Using the backend from project #9, I built the front end using React to allow users to view a list of courses and the detail for a specific course, sign up to create an account or sign in with an existing account, and create, update, or delete courses.
+-[Github repo](https://github.com/ccarver80/React-REST-FS-API)
